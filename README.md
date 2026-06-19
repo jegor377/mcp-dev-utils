@@ -2,7 +2,7 @@
 
 A lightweight [Model Context Protocol](https://modelcontextprotocol.io/) server that exposes everyday developer utilities as MCP tools and resources.
 
-Built with [`FastMCP`](https://github.com/modelcontextprotocol/python-sdk) (the official Python MCP SDK).
+Built with [`mcp`](https://github.com/modelcontextprotocol/python-sdk) — the official Python MCP SDK (uses `FastMCP` for a clean, decorator-based API).
 
 ![MCP Server in action](splash.png)
 
